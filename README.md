@@ -2,6 +2,8 @@
 
 > Shiny Svelte Pokedex was built using SvelteKit, TailwindCSS, Pokedex, Font Awesome icons and Vite. Based on [babycourageous/svelte-pokedex][svelte-pokedex]
 
+[svelte-pokedex]: https://github.com/babycourageous/svelte-pokedex
+
 Fork this repo and try out SvelteKit!
 
 ## Installation
@@ -14,5 +16,3 @@ $ npm install
 ```
 $ npm run dev
 ```
-
-
