@@ -23,5 +23,7 @@
 	"engines": {
 		"node": ">= 12.17.0"
 	},
-	"dependencies": {}
+	"dependencies": {
+		"svelte-awesome": "^2.3.1"
+	}
 }
